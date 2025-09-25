@@ -321,10 +321,10 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Pracheer Srivastava**
-- 🌐 **GitHub**: [@pracheersrivastava](https://github.com/pracheersrivastava)
-- 📧 **Email**: pracheer.23bcy10126@vitbhopal.ac.in
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/pracheersrivastava)
+**Pranav Anshu Pathak**
+- 🌐 **GitHub**: [@Pranav-Anshu-Pathak](https://github.com/Pranav-Anshu-Pathak)
+- 📧 **Email**: pranav.23bcy10203@vitbhopal.ac.in
+- 💼 **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/pranav-anshu-pathak-b12022290/)
 
 </div>
 
@@ -334,9 +334,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ### **⭐ Star this repository if you found it helpful!**
 
-[![GitHub stars](https://img.shields.io/github/stars/pracheersrivastava/course-registration-system?style=social)](https://github.com/pracheersrivastava/course-registration-system)
-[![GitHub forks](https://img.shields.io/github/forks/pracheersrivastava/course-registration-system?style=social)](https://github.com/pracheersrivastava/course-registration-system)
-
 **Made with ❤️ and lots of ☕**
+
 
 </div>
